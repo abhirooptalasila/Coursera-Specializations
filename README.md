@@ -4,9 +4,13 @@ This repo contains my personal notes and solutions to the programming assignment
 
 List of Specializations:
 - [Deep Learning (deeplearning.ai)](https://www.coursera.org/specializations/deep-learning)
-- [AI for Medicine (deeplearning.ai)](https://coursera.org/specializations/ai-for-medicine)
+- [AI for Medicine](https://coursera.org/specializations/ai-for-medicine)
+- [Advanced Machine Learning](https://www.coursera.org/specializations/aml)
 
 
 If you need any help with the PA's, feel free to ping me anytime :)
 
 Happy Learning!
+
+
+### For any corrections or suggestions, please open an issue
